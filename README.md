@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Profile views](https://gpvc.arturio.dev/shubham-gupta-16)
+<br/>
+<br/>
+<a href="https://github.com/shubham-gupta-16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-gupta-16&count_private=true&hide=stars&theme=dark" />
+</a>
+<br/>
+<br/>
+<a href="https://github.com/shubham-gupta-16">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-gupta-16&layout=compact&theme=dark&langs_count=4" />
+</a>
