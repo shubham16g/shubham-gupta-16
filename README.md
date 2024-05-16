@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile views](https://gpvc.arturio.dev/shubham-gupta-16)
 <br/>
 <br/>
+<!-- 
 <a href="https://github.com/shubham-gupta-16">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shubham-gupta-16&count_private=true&theme=dark" />
 </a>
+-->
 <br/>
 <br/>
 <a href="https://github.com/shubham-gupta-16">
